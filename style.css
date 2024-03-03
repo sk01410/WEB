@@ -1,0 +1,24 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.6;
+}
+
+header {
+  border-bottom: 1px solid #edf1f4;
+}
+
+nav a {
+  color: #cbd5e0;
+}
+
+nav a:hover {
+  color: #fff;
+}
+
+button {
+  transition: all 0.2s ease-in-out;
+}
+
+button:hover {
+  transform: translateY(-2px);
+}
